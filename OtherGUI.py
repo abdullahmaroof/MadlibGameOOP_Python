@@ -1,7 +1,7 @@
 from tkinter import *
 from PIL import ImageTk, Image
 from tkinter import ttk, messagebox
-from madlibs_project.filehandling import *
+from FileHandling import *
 
 def againmain(root):
     root.destroy()
