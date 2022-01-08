@@ -1,6 +1,6 @@
 from tkinter import *
 from PIL import ImageTk, Image
-from madlibs_project.othergui import *
+from OtherGUI import *
 
 def maingui():
     class welcome:
